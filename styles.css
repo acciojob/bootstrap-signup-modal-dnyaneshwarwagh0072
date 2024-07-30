@@ -1,1 +1,6 @@
-/*  your css code here. If applicable */
+.submit-btn{
+    float: right;
+}
+.sign-up-btn{
+    margin: 20px 0px 0px 20px;
+}
